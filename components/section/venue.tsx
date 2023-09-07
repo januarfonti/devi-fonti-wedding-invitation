@@ -11,7 +11,7 @@ function Venue({ isOpened }: { isOpened: boolean }) {
         EVENT
       </h1>
       <Image
-        src='/images/venue.jpg'
+        src='/images/venue-section.jpg'
         alt='Venue'
         className='absolute -z-20 object-cover object-bottom'
         sizes={
