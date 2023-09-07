@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-text-stroke {
+  color: #ffffff00;
+  -webkit-text-stroke: 1px;
+  stroke-width: 1px;
+  -webkit-text-stroke-color: #ffffff57;
+  stroke: #ffffff57;
+}
+
+.custom-text-stroke-green {
+  color: #2b2e1b00;
+  -webkit-text-stroke: 1px;
+  stroke-width: 1px;
+  -webkit-text-stroke-color: #2b2e1b57;
+  stroke: #2b2e1b57;
+}
